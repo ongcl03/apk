@@ -1,6 +1,6 @@
 # APK Repository
 
-Welcome to my APK Repository! This is a collection of Android APK files that I created during my secondary school years using AndLua and Sketchware. These apps reflect my early exploration into mobile app development.
+Welcome to my APK Repository! This is a collection of Android APK files that I created during my secondary school years (before 2021) using AndLua and Sketchware. These apps reflect my early exploration into mobile app development.
 
 ## Repository Contents
 
